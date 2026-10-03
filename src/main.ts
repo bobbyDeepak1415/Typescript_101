@@ -1,6 +1,6 @@
 
 
-var name:string=34
+var name:string="Bobby"
 
-
+name="Deepak"
 console.log(name)
